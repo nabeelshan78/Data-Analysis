@@ -9,8 +9,8 @@ This project involves analyzing demographic data using Pandas. The dataset used 
 ## Dataset
 
 The dataset includes the following columns:
-![image](https://github.com/user-attachments/assets/c3060d4a-af7e-4ac7-aa3b-72c6b6daf44e)
-![image](https://github.com/user-attachments/assets/fb7b9680-8a70-4977-88d8-8638dd3748dd)
+![image](https://github.com/user-attachments/assets/b9368598-b7d0-47d3-892e-dda203bfc8e4)
+![image](https://github.com/user-attachments/assets/a0e50607-8db0-439c-bef0-f9a3f7bb1865)
 
 
 
@@ -54,4 +54,5 @@ The analysis focuses on answering the following questions:
 - `README.md`: This file, providing an overview of the project and instructions.
 
 ## Output
-![image](https://github.com/user-attachments/assets/6f595b16-4b8f-411d-a477-c979ef3e39d3)
+![image](https://github.com/user-attachments/assets/54ac1e0f-a0fe-44dc-9328-8656aa229f17)
+
